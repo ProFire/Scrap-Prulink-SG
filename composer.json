@@ -1,0 +1,9 @@
+{
+    "name": "ProFire/Scrap-Prulink-SG",
+    "description": "Scrap SG Prulink fund prices",
+    "version": "dev-master",
+    "require": {
+        "php": ">=5.4.16",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}

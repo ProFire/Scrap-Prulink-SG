@@ -1,5 +1,5 @@
 {
-    "name": "ProFire/Scrap-Prulink-SG",
+    "name": "profire/scrap-prulink-sg",
     "description": "Scrap SG Prulink fund prices",
     "version": "dev-master",
     "require": {
